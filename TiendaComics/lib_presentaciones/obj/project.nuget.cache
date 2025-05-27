@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x/u0H4ypRJk=",
+  "dgSpecHash": "XYehHe3YhxQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_presentaciones\\lib_presentaciones.csproj",
+  "projectFilePath": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_presentaciones\\lib_presentaciones.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\santi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\perol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
