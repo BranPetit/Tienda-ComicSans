@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\",
+  "WorkspaceRootPath": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\itm\\2025-1\\entrega\\tienda-comicsans\\tiendacomics\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\tienda-comicsans\\tiendacomics\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\secrets.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\secrets.json||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:secrets.json||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75895A1B-76EE-43B3-AC76-4E080108816D}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\perol\\desktop\\itm\\2025-1\\entrega\\tienda-comicsans\\tiendacomics\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75895A1B-76EE-43B3-AC76-4E080108816D}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\santi\\tienda-comicsans\\tiendacomics\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75895A1B-76EE-43B3-AC76-4E080108816D}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\itm\\2025-1\\entrega\\tienda-comicsans\\tiendacomics\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\tienda-comicsans\\tiendacomics\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Nucleo\\DatosGenerales.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Nucleo\\DatosGenerales.cs",
               "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T01:46:58.737Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\secrets.json",
+              "DocumentMoniker": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\secrets.json",
               "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\secrets.json",
+              "ToolTip": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\secrets.json",
               "RelativeToolTip": "secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_repositorios\\Implementaciones\\Conexion.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_repositorios\\Implementaciones\\Conexion.cs",
               "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "lib_dominio.csproj",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
+              "DocumentMoniker": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
               "RelativeDocumentMoniker": "lib_dominio\\lib_dominio.csproj",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
+              "ToolTip": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
               "RelativeToolTip": "lib_dominio\\lib_dominio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
