@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\lib_aplicaciones\lib_aplicaciones.csproj" />
+    <ProjectReference Include="..\lib_dominio\lib_dominio.csproj" />
+    <ProjectReference Include="..\lib_repositorios\lib_repositorios.csproj" />
   </ItemGroup>
 
 </Project>
