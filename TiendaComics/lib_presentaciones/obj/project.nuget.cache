@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/u0H4ypRJk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_presentaciones\\lib_presentaciones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
