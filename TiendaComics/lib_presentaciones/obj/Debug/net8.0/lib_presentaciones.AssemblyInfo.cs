@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lib_presentaciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ad5dfd1402e91e17842c94cd84342210c016ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cdac8f2fe7034d08ec3061c1e25ca05e16c86b")]
 [assembly: System.Reflection.AssemblyProductAttribute("lib_presentaciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lib_presentaciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
