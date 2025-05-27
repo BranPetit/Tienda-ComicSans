@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\",
+  "WorkspaceRootPath": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\itm\\2025-1\\entrega\\tienda-comicsans\\tiendacomics\\lib_dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|c:\\users\\santi\\tienda-comicsans\\tiendacomics\\lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B4AC90CF-4135-4143-B16F-7E629CF5552A}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\lib_dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,27 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Class1.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Class1.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Class1.cs",
-              "RelativeToolTip": "lib_dominio\\Class1.cs",
+              "Title": "lib_dominio",
+              "DocumentMoniker": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
+              "RelativeDocumentMoniker": "lib_dominio\\lib_dominio.csproj",
+              "ToolTip": "C:\\Users\\santi\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
+              "RelativeToolTip": "lib_dominio\\lib_dominio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:02:47.337Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T01:13:07.023Z",
               "EditorCaption": ""
             }
           ]
