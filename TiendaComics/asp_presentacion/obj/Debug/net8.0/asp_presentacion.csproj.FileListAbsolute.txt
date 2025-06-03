@@ -1,7 +1,83 @@
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\appsettings.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.runtime.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.endpoints.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.exe
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.deps.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.runtimeconfig.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_presentaciones.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.AssemblyReference.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfo.cs
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cs
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\scopedcss\bundle\asp_presentacion.styles.css
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\scopedcss\projectbundle\asp_presentacion.bundle.scp.css
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_pres.9948B68B.Up2Date
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\refint\asp_presentacion.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.genruntimeconfig.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\asp_presentacion\obj\Debug\net8.0\ref\asp_presentacion.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\appsettings.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.runtime.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.endpoints.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.exe
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.deps.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.runtimeconfig.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.pdb
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_presentaciones.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\bin\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.AssemblyReference.cache
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfoInputs.cache
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.AssemblyInfo.cs
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cache
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.RazorAssemblyInfo.cs
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\scopedcss\bundle\asp_presentacion.styles.css
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\scopedcss\projectbundle\asp_presentacion.bundle.scp.css
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.asp_presentacion.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.asp_presentacion.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.build.asp_presentacion.props
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.asp_presentacion.props
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.asp_presentacion.props
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_pres.9948B68B.Up2Date
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\refint\asp_presentacion.dll
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.pdb
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\asp_presentacion.genruntimeconfig.cache
+C:\Users\perol\Downloads\TiendaComics\asp_presentacion\obj\Debug\net8.0\ref\asp_presentacion.dll
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\appsettings.json
-C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.runtime.json
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.endpoints.json
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.staticwebassets.runtime.json
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.exe
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.deps.json
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\asp_presentacion\bin\Debug\net8.0\asp_presentacion.runtimeconfig.json

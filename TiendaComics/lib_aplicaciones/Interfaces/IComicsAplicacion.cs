@@ -10,5 +10,6 @@ namespace lib_aplicaciones.Interfaces
         Comics? Guardar(Comics? entidad);
         Comics? Modificar(Comics? entidad);
         Comics? Borrar(Comics? entidad);
+        List<Comics> PorFiltros(Comics? entidad);
     }
 }

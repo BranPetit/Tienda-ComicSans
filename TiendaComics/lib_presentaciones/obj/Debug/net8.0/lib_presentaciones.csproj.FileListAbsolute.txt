@@ -1,35 +1,33 @@
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.deps.json
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.dll
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.pdb
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.dll
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.pdb
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.AssemblyReference.cache
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfoInputs.cache
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfo.cs
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.CoreCompileInputs.cache
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.sourcelink.json
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_pres.F3664F89.Up2Date
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.dll
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\refint\lib_presentaciones.dll
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.pdb
-C:\Users\santi\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\ref\lib_presentaciones.dll
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.deps.json
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.dll
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.pdb
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.dll
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.pdb
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.AssemblyReference.cache
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfoInputs.cache
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfo.cs
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.CoreCompileInputs.cache
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.sourcelink.json
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_pres.F3664F89.Up2Date
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.dll
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\refint\lib_presentaciones.dll
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.pdb
-C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_presentaciones\obj\Debug\net8.0\ref\lib_presentaciones.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.deps.json
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.AssemblyReference.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfo.cs
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_pres.F3664F89.Up2Date
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\refint\lib_presentaciones.dll
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\santi\Downloads\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\8-10 Mar-Jue Santiago Bran-Alexsander Gonzalez\TiendaComics\lib_presentaciones\obj\Debug\net8.0\ref\lib_presentaciones.dll
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.deps.json
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.dll
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.AssemblyReference.cache
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfoInputs.cache
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.AssemblyInfo.cs
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.csproj.CoreCompileInputs.cache
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_pres.F3664F89.Up2Date
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.dll
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\refint\lib_presentaciones.dll
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\lib_presentaciones.pdb
+C:\Users\perol\Downloads\TiendaComics\lib_presentaciones\obj\Debug\net8.0\ref\lib_presentaciones.dll
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.deps.json
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.dll
 C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_presentaciones\bin\Debug\net8.0\lib_presentaciones.pdb

@@ -45,10 +45,10 @@ namespace asp_presentacion
                 app.UseExceptionHandler("/Error");
             }
             app.UseStaticFiles();
-            app.UseRouting();
+            app.UseSession();
+            app.UseRouting();           
             app.UseAuthorization();
             app.MapRazorPages();
-            app.UseSession();
             app.Run();
         }
     }

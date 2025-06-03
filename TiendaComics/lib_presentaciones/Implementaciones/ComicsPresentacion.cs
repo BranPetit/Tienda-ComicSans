@@ -45,6 +45,26 @@ namespace lib_presentaciones.Implementaciones
             return lista;
         }
 
+        public async Task<List<Comics>> PorFiltros(Comics? entidad)
+        {
+            var lista = new List<Comics>();
+            var datos = new Dictionary<string, object>();
+            datos["Entidad"] = entidad!;
+
+            comunicaciones = new Comunicaciones();
+            datos = comunicaciones.ConstruirUrl(datos, "Comics/PorFiltros");
+            var respuesta = await comunicaciones!.Ejecutar(datos);
+
+            if (respuesta.ContainsKey("Error"))
+            {
+                throw new Exception(respuesta["Error"].ToString()!);
+            }
+
+            lista = JsonConversor.ConvertirAObjeto<List<Comics>>(
+                JsonConversor.ConvertirAString(respuesta["Entidades"]));
+            return lista;
+        }
+
         public async Task<Comics?> Guardar(Comics? entidad)
         {
             if (entidad!.Id != 0)

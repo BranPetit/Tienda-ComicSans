@@ -1,0 +1,37 @@
+﻿@page
+@model asp_presentacion.Pages.Ventanas.CarritoModel
+@{
+    ViewData["Title"] = "Carrito";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Carrito</h2>
+
+    @if (Model.Items.Any())
+    {
+        <ul class="list-group mb-3">
+            @foreach (var comic in Model.Items)
+            {
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    <div>
+                        <img src="@comic.Imagen" alt="@comic.Nombre" class="me-3" style="width: 60px; height: 90px; object-fit: cover;" />
+                        <strong>@comic.Nombre</strong>
+                        <div class="text-muted">@comic._Editorial?.Nombre - @comic._Categoria?.Nombre</div>
+                    </div>
+                    <div>
+                        <span class="me-3">@comic.Precio.ToString("C")</span>
+                        <form method="post" asp-page-handler="QuitarDelCarrito">
+                            <input type="hidden" name="id" value="@comic.Id" />
+                            <button type="submit" class="btn btn-sm btn-danger">Eliminar</button>
+                        </form>
+                    </div>
+                </li>                
+            }
+        </ul>
+        <h4 class="text-end">Total: @Model.Total.ToString("C")</h4>
+    }
+    else
+    {
+        <div class="alert alert-info">El carrito está vacío.</div>
+    }
+</div>

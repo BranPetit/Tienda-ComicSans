@@ -37,6 +37,7 @@ namespace asp_presentacion.Pages.Ventanas
         [BindProperty] public List<Comics>? Lista { get; set; }
         [BindProperty] public List<Categorias>? Categorias { get; set; }
         [BindProperty] public List<Editoriales>? Editoriales { get; set; }
+        [BindProperty] public List<Comics>? Carrito { get; set; }
 
         public virtual void OnGet() { OnPostBtRefrescar(); }
 
@@ -52,13 +53,17 @@ namespace asp_presentacion.Pages.Ventanas
                 }
 
                 Filtro!.Nombre = Filtro!.Nombre ?? "";
+                Filtro!.Categoria = Filtro!.Categoria;
+                Filtro!.Editorial = Filtro!.Editorial;
 
                 Accion = Enumerables.Ventanas.Listas;
 
-                var task = this.iPresentacion!.PorNombre(Filtro!);
+                var task = this.iPresentacion!.PorFiltros(Filtro!);
                 task.Wait();
                 Lista = task.Result;
                 Actual = null;
+
+                CargarCombox();
             }
             catch (Exception ex)
             {
@@ -193,6 +198,34 @@ namespace asp_presentacion.Pages.Ventanas
             {
                 LogConversor.Log(ex, ViewData!);
             }
+        }
+        public IActionResult OnPostAgregarAlCarrito(int id)
+        {
+            try
+            {
+                
+                var task = this.iPresentacion!.PorFiltros(new Comics()); 
+                task.Wait();
+                Lista = task.Result;
+
+                var comic = Lista?.FirstOrDefault(c => c.Id == id);
+                if (comic != null)
+                {
+                    var carritoStr = HttpContext.Session.GetString("Carrito");
+                    var carrito = string.IsNullOrEmpty(carritoStr)
+                        ? new List<Comics>()
+                        : JsonConversor.ConvertirAObjeto<List<Comics>>(carritoStr);
+
+                    carrito.Add(comic);
+                    HttpContext.Session.SetString("Carrito", JsonConversor.ConvertirAString(carrito));
+                }
+            }
+            catch (Exception ex)
+            {
+                LogConversor.Log(ex, ViewData!);
+            }
+
+            return RedirectToPage();
         }
     }
 }

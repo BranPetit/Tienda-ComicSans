@@ -21,6 +21,7 @@ CREATE TABLE [Comics](
 	[Id] INT PRIMARY KEY IDENTITY (1,1) NOT  NULL,
 	[Nombre] NVARCHAR (50) NOT NULL,
 	[Precio] DECIMAL (10,2) NOT NULL,
+	[Imagen] NVARCHAR (200) NOT NULL,
 	[Editorial] INT NOT NULL,
 	[Categoria] INT NOT NULL,
 	FOREIGN KEY ([Editorial]) REFERENCES [Editoriales]([Id]),
@@ -139,15 +140,15 @@ VALUES
 GO
 
 
-INSERT INTO [Comics]([Nombre],[Precio],[Editorial],[Categoria])
+INSERT INTO [Comics]([Nombre],[Precio],[Imagen],[Editorial],[Categoria])
 VALUES 
-	('SPIDERMAN',25000,1,1),
-	('CANARY',18000,2,2),
-	('BATMAN',27500,3,1),
-	('VAGABOND',33000,4,3),
-	('CHAINSAWMAN',30000,4,3),
-	('LINEA DE PUNTOS',15000,5,4),
-	('MAFALDA',8000,6,5);
+	('SPIDERMAN',25000,'https://surl.li/cgbjbk',1,1),
+	('CANARY',18000,'https://surl.li/dsgpqd',2,2),
+	('BATMAN',27500,'https://surli.cc/rmvirw',3,1),
+	('VAGABOND',33000,'https://surl.li/ckufjr',4,3),
+	('CHAINSAWMAN',30000,'https://surl.li/qpffhz',4,3),
+	('LINEA DE PUNTOS',15000,'https://surl.li/uqletv',5,4),
+	('MAFALDA',8000,'https://surl.li/nlnojl',6,5);
 GO
 
 INSERT INTO [Roles] ([Nombre],[Descripcion])
@@ -252,5 +253,5 @@ SELECT * FROM [Auditorias]
 SELECT * FROM [Roles]
 SELECT * FROM [Usuarios]
 
-drop database db_comics
+
 

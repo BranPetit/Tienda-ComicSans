@@ -9,5 +9,6 @@ namespace lib_presentaciones.Interfaces
         Task<Comics?> Guardar(Comics? entidad);
         Task<Comics?> Modificar(Comics? entidad);
         Task<Comics?> Borrar(Comics? entidad);
+        Task<List<Comics>> PorFiltros(Comics? entidad);
     }
 }
