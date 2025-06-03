@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8376DDA8-807C-4447-9345-5CB9D1F95399}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comicsans\\tiendacomics\\lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8376DDA8-807C-4447-9345-5CB9D1F95399}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B748415-278D-668D-242E-11FA8AFB7DFA}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comicsans\\tiendacomics\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B748415-278D-668D-242E-11FA8AFB7DFA}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCBF983-68EC-CBDC-1E9D-85E5E1DEE485}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comicsans\\tiendacomics\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCBF983-68EC-CBDC-1E9D-85E5E1DEE485}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DCBF983-68EC-CBDC-1E9D-85E5E1DEE485}|lib_dominio\\lib_dominio.csproj|c:\\users\\perol\\desktop\\dev\\tienda-comicsans\\tiendacomics\\lib_dominio\\entidades\\detalles_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCBF983-68EC-CBDC-1E9D-85E5E1DEE485}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\detalles_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Comunicaciones.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_presentaciones\\Comunicaciones.cs",
-              "RelativeDocumentMoniker": "lib_presentaciones\\Comunicaciones.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_presentaciones\\Comunicaciones.cs",
-              "RelativeToolTip": "lib_presentaciones\\Comunicaciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:37:36.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\secrets.json",
-              "RelativeToolTip": "secrets.json",
+              "Title": "Detalles_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Entidades\\Detalles_Ventas.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Detalles_Ventas.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Entidades\\Detalles_Ventas.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Detalles_Ventas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-03T03:37:27.013Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T04:11:25.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "EntidadesNucleo.cs",
+              "DocumentMoniker": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ToolTip": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T03:37:13.879Z",
+              "WhenOpened": "2025-06-03T04:11:17.767Z",
               "EditorCaption": ""
             }
           ]

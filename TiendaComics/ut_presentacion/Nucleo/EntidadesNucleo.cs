@@ -24,11 +24,12 @@ namespace ut_presentacion.Nucleo
         public static Comics? Comics()
         {
             var entidad = new Comics();
+
             entidad.Nombre = "Superhéroes";
             entidad.Precio = 19900.00m;
             entidad.Editorial = 1;
             entidad.Categoria = 1;
-
+            entidad.Imagen = "test";
             
             return entidad;
         }
@@ -48,6 +49,7 @@ namespace ut_presentacion.Nucleo
         {
             var entidad = new Vendedores();
             entidad.Carnet = "778" + DateTime.Now.ToString("yyyyMMddhhmmssfff");
+            entidad.Usuario = 1;
             entidad.Nombre = "Julian";
             
             return entidad;
@@ -88,9 +90,9 @@ namespace ut_presentacion.Nucleo
         public static Detalles_Ventas? Detalles_Ventas()
         {
             var entidad = new Detalles_Ventas();
-            entidad.CodigoDetalle = "232313";
+            entidad.CodigoDetalle = "1";
             entidad.Comic = 1;
-            entidad.Venta = 1;
+            entidad.Venta = 2;
             entidad.Cantidad = 1;
            
             return entidad;
