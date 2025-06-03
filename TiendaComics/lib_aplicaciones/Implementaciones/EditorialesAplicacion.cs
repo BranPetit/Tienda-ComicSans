@@ -31,6 +31,9 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbNoSeGuardo");
 
             // Calculos
+            bool enUso = this.IConexion!.Comics!.Any(c => c.Editorial == entidad.Id);
+            if (enUso)
+                throw new Exception("La editorial está en uso");
 
             this.IConexion!.Editoriales!.Remove(entidad);
             this.IConexion.SaveChanges();

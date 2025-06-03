@@ -31,6 +31,9 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbNoSeGuardo");
 
             // Calculos
+            bool enUso = this.IConexion!.Detalles_Ventas!.Any(c => c.Venta == entidad.Id);
+            if (enUso)
+                throw new Exception("La venta está siendo referenciada");
 
             this.IConexion!.Ventas!.Remove(entidad);
             this.IConexion.SaveChanges();

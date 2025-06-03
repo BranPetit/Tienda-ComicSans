@@ -30,6 +30,10 @@ namespace lib_aplicaciones.Implementaciones
             if (entidad!.Id == 0)
                 throw new Exception("lbNoSeGuardo");
 
+            bool enUso = this.IConexion!.Ventas!.Any(c => c.Metodo_de_Pago == entidad.Id);
+            if (enUso)
+                throw new Exception("El método de pago está en uso");
+
             // Calculos
 
             this.IConexion!.Metodos_de_Pagos!.Remove(entidad);

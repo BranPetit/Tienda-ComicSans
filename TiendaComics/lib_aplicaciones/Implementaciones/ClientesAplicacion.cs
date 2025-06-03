@@ -32,6 +32,10 @@ namespace lib_aplicaciones.Implementaciones
 
             // Calculos
 
+            bool enUso = this.IConexion!.Ventas!.Any(c => c.Cliente == entidad.Id);
+            if (enUso)
+                throw new Exception("El cliente está siendo referenciado");
+
             this.IConexion!.Clientes!.Remove(entidad);
             this.IConexion.SaveChanges();
             this.IAuditoriasAplicacion!.Configurar(this.IConexion.StringConexion!);

@@ -24,3 +24,16 @@ C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_domi
 C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
 C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
 C:\Users\perol\Desktop\ITM\2025-1\Entrega\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\bin\Debug\net8.0\lib_dominio.deps.json
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.csproj.AssemblyReference.cache
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfoInputs.cache
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfo.cs
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.csproj.CoreCompileInputs.cache
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.sourcelink.json
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.dll
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
+C:\Users\perol\Desktop\Dev\Tienda-ComicSans\TiendaComics\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll

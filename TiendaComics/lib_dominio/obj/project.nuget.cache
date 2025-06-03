@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mz+cAdW+zQ=",
+  "dgSpecHash": "DAB63FoOdfI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\perol\\Desktop\\ITM\\2025-1\\Entrega\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
+  "projectFilePath": "C:\\Users\\perol\\Desktop\\Dev\\Tienda-ComicSans\\TiendaComics\\lib_dominio\\lib_dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\perol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

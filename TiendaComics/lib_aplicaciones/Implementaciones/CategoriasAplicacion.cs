@@ -31,6 +31,9 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbNoSeGuardo");
 
             // Calculos
+            bool enUso = this.IConexion!.Comics!.Any(c => c.Categoria == entidad.Id);
+            if (enUso)
+                throw new Exception("La categoría está en uso");
 
             this.IConexion!.Categorias!.Remove(entidad);
             this.IConexion.SaveChanges();

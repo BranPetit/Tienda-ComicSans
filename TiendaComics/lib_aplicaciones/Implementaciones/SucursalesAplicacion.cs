@@ -30,6 +30,10 @@ namespace lib_aplicaciones.Implementaciones
             if (entidad!.Id == 0)
                 throw new Exception("lbNoSeGuardo");
 
+            bool enUso = this.IConexion!.Ventas!.Any(c => c.Sucursal == entidad.Id);
+            if (enUso)
+                throw new Exception("La sucursal está en uso");
+
             // Calculos
 
             this.IConexion!.Sucursales!.Remove(entidad);

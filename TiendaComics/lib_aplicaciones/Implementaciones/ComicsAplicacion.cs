@@ -31,6 +31,9 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbNoSeGuardo");
 
             // Calculos
+            bool enUso = this.IConexion!.Detalles_Ventas!.Any(c => c.Comic == entidad.Id);
+            if (enUso)
+                throw new Exception("El comic está siendo referenciado");
 
             this.IConexion!.Comics!.Remove(entidad);
             this.IConexion.SaveChanges();
@@ -86,6 +89,24 @@ namespace lib_aplicaciones.Implementaciones
                 .Include(x => x._Categoria)
                 .Include(x => x._Editorial)
                 .ToList();
+        }
+        public List<Comics> PorFiltros(Comics? entidad)
+        {
+            var query = this.IConexion!.Comics!
+                .Include(x => x._Categoria)
+                .Include(x => x._Editorial)
+                .AsQueryable();
+
+            if (!string.IsNullOrWhiteSpace(entidad?.Nombre))
+                query = query.Where(x => x.Nombre!.Contains(entidad.Nombre!));
+
+            if (entidad?.Categoria > 0)
+                query = query.Where(x => x.Categoria == entidad.Categoria);
+
+            if (entidad?.Editorial > 0)
+                query = query.Where(x => x.Editorial == entidad.Editorial);
+
+            return query.ToList();
         }
 
         public Comics? Modificar(Comics? entidad)
